@@ -1,0 +1,7 @@
+.footer {
+    position: relative;
+    width: 100%;
+    bottom: -200px;
+    background-color: black;
+    color: yellow;
+}
